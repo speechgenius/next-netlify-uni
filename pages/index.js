@@ -40,13 +40,13 @@ export default function Home() {
         <div style={{ marginTop: '30px' }}>
           <h2>Contact Us</h2>
           <p>
-            Got questions or need support? Reach out to us at <strong>support@universitymarketplace.com</strong>.
+            Got questions or need support? Reach out to us at <strong>shaabandaudi@gmail.com</strong> or at +255 687 361 535.
           </p>
         </div>
       </main>
 
       <footer style={{ marginTop: '50px', padding: '20px', backgroundColor: '#f9f9f9', textAlign: 'center' }}>
-        <p>© 2024 University Marketplace. All rights reserved.</p>
+        <p>© 2024 Unisoko. All rights reserved.</p>
       </footer>
     </div>
   );
